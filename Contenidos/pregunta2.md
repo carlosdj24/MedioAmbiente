@@ -5,4 +5,4 @@ Dentro de estos riesgos ambientales hay dos aspectos que facilitan la definició
 
 Dichos riesgos pueden prevenirse y están clasificados en dos subgrupos: los naturales y los antrópicos
 
-![image](imagen2.png)
+![image](imagen2.jpeg)
