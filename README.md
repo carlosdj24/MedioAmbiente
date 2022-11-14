@@ -11,7 +11,7 @@ debemos llevar referirnos a la informática ecológica, esta es un enfoque de la
 - [¿Cómo podemos garantizar la protección del medio ambiente?](Contenidos/pregunta4.md)
 
 ## Referencias
-
+- [Wikipedia](https://es.wikipedia.org)
 
 ## Licencia
 ![image](Contenidos/licencia.png)
